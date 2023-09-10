@@ -4,17 +4,7 @@ Welcome to the Netflix Clone project! This project is a web application that rep
 
 ![Netflix Clone Screenshot](screenshot.png)
 
-## Table of Contents
 
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [GraphQL API](#graphql-api)
-- [Database](#database)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
